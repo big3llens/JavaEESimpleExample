@@ -1,0 +1,178 @@
+.headblock{
+    border: 3px solid red;
+    height: 750px;
+}
+.mainHedBlock{
+    background-image: url(https://lh3.googleusercontent.com/proxy/xjIAXfQF5och2JrSDKa30HvTUD247736wJuQnm2K9GcFTk0pvKtHaehxAxlZVjn9FeYM7VTyGZ1ObwVIxqr_v5qirBa9-wVlRng);
+    background-size: cover;
+    background-position: center;
+    border: 3px solid rebeccapurple;
+    margin: 0 6%;
+    height: 747px;
+}
+.menu{
+    border: 3px solid green;
+    height: 40px;
+    margin: 1.5% 0 0 0;
+    padding: 5px;
+
+}
+.block4{
+    border: 3px solid turquoise;
+    height: 45%;
+    width: 50%;
+    margin: 5% 0 0 0;
+}
+.paragraph{
+    height: 69.5%;
+}
+.centerh{
+    text-align: center;
+}
+.bodyBlock{
+    border: 3px solid rebeccapurple;
+    margin: 50px 6.25% 0;
+    height: 650px;
+}
+.inerBodyGreenBlock{
+    border: 3px solid green;
+    width: 1642px;
+    height: 550px;
+
+}
+.inerOrchidBlock{
+    border: 3px solid orchid;
+    margin: 15px 0 ;
+    width: 30%;
+    height: 514px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.hedingInerGreenBlock{
+    margin: 300px 0 0 0;
+}
+.redBodyBlock{
+    border: 3px solid red;
+    padding: 0 10%;
+    box-sizing: border-box;
+    margin: 10px 6.25% 0;
+    text-align: center;
+}
+.footerBlock{
+    background-color: rgb(136, 194, 233);
+    border: 5px solid red;
+    height: 650px;
+}
+.topFootterBlock{
+    border: 4px solid wheat;
+    margin: 0 6.25% 0;
+    height: 400px;
+}
+.bottomFootterBlock{
+    border: 4px solid greenyellow;
+    margin: 5px 6.25% 0;
+    height: 232px;
+}
+.lastTopFootterBlock{
+    border: 3px solid orchid;
+    margin: 50px 0;
+    height: 300px;
+    width: 450px;
+    padding: 40px 0;
+    box-sizing: border-box;
+}
+.lastBottomFootterBlock{
+    border: 3px solid gainsboro;
+    height: 70px;
+    margin: 100px 0 20px;
+}
+.contactHeader{
+    height: 300px;
+    text-align: center;
+    background-color: rgb(136, 194, 233);
+    padding: 0 25%;
+    box-sizing: border-box;
+}
+.sendMassege{
+    float: right;
+    border: 1px solid gainsboro;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    margin: 100px 100px 0 0;
+    height: 800px;
+    width: 600px;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.map{
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 400px 140px 400px;
+}
+.body{
+    height: 1000px;
+}
+.contacts{
+    height: 900px;
+    width: 600px;
+    margin: 0 0 0 500px;
+    box-sizing: border-box;
+    padding: 370px 100px 0 100px;
+    font-size: 20px;
+}
+.info li{
+    display: inline;
+    padding-right: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h2 {
+    font-weight: 200px;
+    font-size: 44px;
+    text-align: center;
+}
+
+.h3 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.h4 {
+    line-height: 30px;
+    font-size: 20px;
+    color: #1F3F68;
+}
+
+.field {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.button {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+.field{
+    height: 50px;
+    width: 500px;
+    margin: 0 0 60px 0;
+}
