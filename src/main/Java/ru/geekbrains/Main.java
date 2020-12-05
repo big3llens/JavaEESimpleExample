@@ -35,7 +35,6 @@ public class Main extends HttpServlet {
 
             }
             new Product().setId(0);
-
         } else {
             sb.append("<h4>Enter a number value to display the required 'number' of products</h4><br><p>Initially, only 3 products are displayed in the list</p><br>");
             for (int i = 0; i < 3; i++) {
@@ -43,7 +42,6 @@ public class Main extends HttpServlet {
             }
             new Product().setId(0);
             writer.printf(sb.toString());
-
             System.out.println(req.getQueryString());
         }
     }
